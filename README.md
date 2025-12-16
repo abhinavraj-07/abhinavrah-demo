@@ -1,3 +1,3 @@
 # abhinavrah-demo
-This is my first repository
-Author-Abhinav rah
+This is my first repository.
+Author-Abhinav raj
